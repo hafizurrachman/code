@@ -1,0 +1,21 @@
+Panduan penggunaan!
+======================================================
+- ekstrak file gis.zip ke htdocs
+- buat nama database di phpmyadmin dengan nama "gis6b"
+- import database yang ada pada folder gis "gis6b.sql"
+- buka di browsr dengan cara "localhost/gis"
+- masukkan user: admin , pass:admin
+
+Tambah data obyek pada peta
+=======================================================
+- pilih menu Tambah Obyek SD Swasta 
+- klik lokasi pada peta kemudian klik markernya lalu isi kan nama SD nya 
+- klik tombol save 1x saja, "sampai sini data sudah tersimpan !!!, memang tidak ada muncul pesan sukses disimpan ketika 
+  menyimpan karena keterbatasan kemampuan saya dalam ngoding dan dibuat dengan buru2".
+- untuk mengecek data berhasil disimpan bisa lihat pada menu Data Obyek SD Swasta atau 
+  lihat pada menu Dashboard untuk melihat marker pada peta.
+  
+END !!!
+
+this source is open source ! 
+By Hafizur Rachman alis (Maman Kill)
